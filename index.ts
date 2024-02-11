@@ -1,1 +1,1 @@
-export { convertNested } from './query/nested';
+export * from './query/nested';

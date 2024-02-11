@@ -1,8 +1,7 @@
 __tests__
-*.ts
-*.tsx
+./*.ts
+!/dist
 tsconfig.json
-dist/
 node_modules/
 package-lock.json
 .vscode/

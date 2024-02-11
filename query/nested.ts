@@ -17,15 +17,3 @@ export function convertNested<T>(
 
   return result;
 }
-const nestedQuery = {
-  fullName: {
-    name: 'Yusuf',
-    surname: 'Eren',
-  },
-  externalId: 1,
-  address: {
-    city: 'Istanbul',
-  },
-};
-
-console.log(convertNested(nestedQuery));
