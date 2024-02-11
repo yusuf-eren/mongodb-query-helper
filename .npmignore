@@ -1,0 +1,10 @@
+__tests__
+*.ts
+*.tsx
+tsconfig.json
+dist/
+node_modules/
+package-lock.json
+.vscode/
+.idea/
+.temp/
