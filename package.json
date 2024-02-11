@@ -1,6 +1,6 @@
 {
   "name": "mongodb-query-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MongoDB Query Helper",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
